@@ -30,7 +30,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - Scss
 - Desktop-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 
 ## Author
 
